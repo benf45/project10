@@ -11,7 +11,7 @@ Version: 1.0
 /* Parent stylesheet should be loaded from functions.php not using @import */
 
 
-.contact-btn{
+#site-header .contact-btn{
     display:inline-block;
     background-color:white;
     padding:6px 16px;
@@ -19,7 +19,7 @@ Version: 1.0
     margin-top: 25px
 }
 @media (max-width: 959px){
-    .contact-btn{
+    #site-header .contact-btn{
         margin-top: 5px;
         margin-left: 25px;
         

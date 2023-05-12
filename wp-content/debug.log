@@ -5551,3 +5551,5 @@ Stack trace:
 [28-Apr-2023 13:00:46 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\project10\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
 [28-Apr-2023 13:01:36 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\project10\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
 [28-Apr-2023 13:03:43 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\project10\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[12-May-2023 00:25:39 UTC] Cron unschedule event error for hook: fs_install_sync_ocean-elementor-widgets, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[12-May-2023 13:25:05 UTC] Cron unschedule event error for hook: fs_install_sync_ocean-elementor-widgets, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
